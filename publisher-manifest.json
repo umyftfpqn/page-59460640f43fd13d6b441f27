@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "d1b725b6c750854705d80701",
+  "owner": "umyftfpqn",
+  "repo": "page-59460640f43fd13d6b441f27",
+  "title": "哦哦云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "59460640f43fd13d6b441f27",
+      "a": "哦哦云",
+      "b": "",
+      "entity": "哦哦云",
+      "brand": "哦哦云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1f8a0f1c7a76edf38232a56e52da6347f8682795f25e4eb64dc94d78d0da4234",
+      "content": {
+        "keyword1": "哦哦云",
+        "keyword2": "",
+        "primary_entity": "哦哦云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "哦哦云提供基础版、旗舰版与团队版云端套餐，满足个人与企业用户的流量需求与连接优化。",
+          "AI_DESCRIPTION": "哦哦云提供基础版、旗舰版与团队版云端套餐，满足个人与企业用户的流量需求与连接优化。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--gray: #4A5568;--cyan: #06B6D4}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;background-color: var(--gray);color: #e2e8f0;line-height: 1.7}\n        header {background: rgba(255,255,255,0.08);backdrop-filter: blur(12px);position: sticky;top: 0;z-index: 200}\n        .nav-container {max-width: 1280px;margin: 0 auto;padding: 1rem 2rem;display: flex;align-items: center;justify-content: space-between}\n        .logo {font-size: 1.75rem;font-weight: 600;letter-spacing: -0.5px}\n        .nav-menu {display: flex;gap: 2.5rem;font-size: 0.95rem}\n        .nav-menu a {color: #e2e8f0;text-decoration: none;transition: color 0.3s ease}\n        .nav-menu a:hover {color: var(--cyan)}\n        .hero {display: flex;height: 85vh;min-height: 520px;background: linear-gradient(135deg, var(--gray) 0%, #2d3748 100%);position: relative;overflow: hidden}\n        .hero-content {width: 36%;padding: 6% 4% 6% 5%;display: flex;flex-direction: column;justify-content: center}\n        .hero-content h1 {font-size: 3.1rem;font-weight: 600;margin-bottom: 1.2rem;line-height: 1.15}\n        .hero-content p {font-size: 1.25rem;margin-bottom: 2.5rem;opacity: 0.92}\n        .cta {display: flex;gap: 1rem;flex-wrap: wrap}\n        .btn {padding: 0.95rem 1.75rem;border-radius: 6px;font-weight: 600;text-decoration: none;transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);display: inline-block}\n        .btn-primary {background: var(--cyan);color: #1e2937}\n        .btn-primary:hover {background: #67e8f9;transform: translateY(-3px);box-shadow: 0 10px 15px -3px rgb(6 182 212)}\n        .btn-secondary {background: transparent;border: 2px solid #e2e8f0;color: #e2e8f0}\n        .hero-right {width: 64%;height: 100%;background: linear-gradient(to right, transparent, rgba(6,182,212,0.12));position: relative;display: flex;align-items: center;justify-content: flex-end;padding-right: 8%}\n        .visual {width: 380px;height: 380px;background: rgba(255,255,255,0.06);border-radius: 50% 50% 20% 20%;display: flex;align-items: center;justify-content: center;font-size: 2.5rem;opacity: 0.25}\n        main {max-width: 1280px;margin: 0 auto;padding: 5rem 2rem 4rem}\n        section {margin-bottom: 5rem}\n        h2 {font-size: 2.1rem;margin-bottom: 2.25rem;color: #f8fafc}\n        .plans {display: flex;flex-direction: column;gap: 1.75rem}\n        .plan {background: rgba(255,255,255,0.05);padding: 2.25rem}\n        .plan-header {display: flex;justify-content: space-between;align-items: flex-start;margin-bottom: 1.75rem}\n        .plan-price {font-size: 1.85rem;font-weight: 600}\n        .plan-features {list-style: none;display: flex;flex-direction: column;gap: 0.9rem}\n        .plan-features li {padding: 0.65rem 0;font-size: 1.05rem}\n        .plan-features li::before {content: \"•\";color: var(--cyan);margin-right: 0.75rem}\n        .faq {background: rgba(255,255,255,0.05);border-radius: 8px;padding: 2.25rem}\n        ol {counter-reset: question}\n        ol li {margin-bottom: 2.25rem;position: relative;padding-left: 2.75rem}\n        ol li::before {counter-increment: question;content: counter(question);position: absolute;left: 0;font-size: 1.35rem;font-weight: 700;color: var(--cyan)}\n        footer {text-align: center;padding: 3rem 2rem 2rem;font-size: 0.9rem;opacity: 0.75;border-top: 1px solid rgba(255,255,255,0.08)}\n    </style><header>\n        <div class=\"nav-container\">\n            <div class=\"logo\">哦哦云</div>\n            <nav class=\"nav-menu\">\n                <a href=\"#\">首页</a>\n                <a href=\"#\">套餐</a>\n                <a href=\"#\">功能</a>\n                <a href=\"#\">支持</a>\n            </nav>\n        </div>\n    </header>\n    <section class=\"hero\">\n        <div class=\"hero-content\">\n            <h1>哦哦云</h1>\n            <p>提供稳定可靠的云端解决方案，助力高效流量管理和设备连接。</p>\n            <div class=\"cta\">\n                <a href=\"#plans\" class=\"btn btn-primary\">查看套餐</a>\n                <a href=\"#faq\" class=\"btn btn-secondary\">查看FAQ</a>\n            </div>\n        </div>\n        <div class=\"hero-right\">\n            <div class=\"visual\">云</div>\n        </div>\n    </section>\n    <main>\n        <section>\n            <h2>产品概述</h2>\n            <p>哦哦云专注于为用户提供安全稳定的云端网络技术。通过合理配置流量资源和节点选择，帮助个人与企业实现高效的在线连接与数据传输。</p>\n            <p>服务以简洁设计为基础，强调长期可靠性和易用性。无论日常浏览还是特定业务需求，均可找到匹配的方案。</p>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            <div class=\"plans\">\n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div>\n                            <h3>基础版</h3>\n                            <p class=\"plan-price\">¥15/月</p>\n                            <p>按年付仅需 ¥150/年</p>\n                        </div>\n                    </div>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 高速流量支持</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体平台</li>\n                        <li>普通线路节点池接入</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div>\n                            <h3>旗舰版</h3>\n                            <p class=\"plan-price\">¥35/月</p>\n                            <p>按年付仅需 ¥350/年</p>\n                        </div>\n                    </div>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 高速流量支持</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7×24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <div class=\"plan-header\">\n                        <div>\n                            <h3>团队版</h3>\n                            <p class=\"plan-price\">¥85/月</p>\n                            <p>按年付仅需 ¥850/年</p>\n                        </div>\n                    </div>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 高速流量支持</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section id=\"faq\" class=\"faq\">\n            <h2>常见问题</h2>\n            <ol>\n                <li>\n                    <h3>如何选择合适的套餐？</h3>\n                    <p>基础版适用于个人日常使用，旗舰版适合需要更多流量的用户，团队版则提供企业级的高带宽与定制支持。</p>\n                </li>\n                <li>\n                    <h3>年付套餐的优惠机制是什么？</h3>\n                    <p>年付方式可降低整体费用，提供更长期的稳定支持，具体金额以页面展示为准。</p>\n                </li>\n                <li>\n                    <h3>服务支持哪些设备？</h3>\n                    <p>兼容主流移动设备、电脑及智能终端，并针对常见平台进行优化。</p>\n                </li>\n                <li>\n                    <h3>如何获得技术协助？</h3>\n                    <p>提供多渠道支持，包括在线工单与电话服务，专业团队将在工作时间内及时响应。</p>\n                </li>\n                <li>\n                    <h3>流量使用超出限制后会如何？</h3>\n                    <p>超出部分将按套餐规则自动管理，建议根据实际需求调整套餐等级。</p>\n                </li>\n            </ol>\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 哦哦云 保留所有权利</p>\n        <p>本页面为静态演示用途，仅供参考</p>\n    </footer>",
+          "hash": "daf6747ba7955c581062f2f8b7cd746a7d54228ce75febeac0477014c463c7f5",
+          "seo": {
+            "title": "哦哦云 | 稳定可靠的云服务解决方案",
+            "keywords": "哦哦云,品牌介绍,套餐说明,客户端,常见问题",
+            "description": "哦哦云提供基础版、旗舰版与团队版云端套餐，满足个人与企业用户的流量需求与连接优化。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "3006",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "7 石板灰配青色",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qrujpc.cn",
+    "host": "p-a5d6b86e7c.qrujpc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4d201080cff5cc4b1b72fa9821e285138be7251ff8baa71c661e7655b2df84e2",
+    "sitemap.xml": "1c9ab1d6ce31406390be720dc5e0c8e3fa7f41a13dc9f57feca25675cdd5bfa0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "00c0fb815f6bbccaaf0523acdef7cf8813873967d01cee15ff9b2e44e811bc0c",
+    "robots.txt": "619b1a59478e4804644ba2030a8e0bc33a62d39cc6136f587c3d7b035b34e903",
+    "a98160c9fab0a260d0874e6bef527ff3.txt": "a26dab27dc23bde7fdbbd178d97c8c6b46066fdd006d517498e69048817ec156"
+  },
+  "revision": "97891defeadbfbc4d2aa5e13e9f2ca3d6295cb22c36e454cf7edb58d6fd1fb89"
+}
